@@ -7,16 +7,42 @@ var keys = require("./keys.js");
 var spotify = new Spotify(keys.spotify);
 var Spotify = require("node-spotify-api");
 
-//define search var
-var searchType = process.argv[2];
-var song = process.argv.slice(3).join(" ");
+
+var song = new song();
 
 //search defaults
-if (!search) {
+
+//define search var
+var searchType = process.argv[2];
+
+if (!searchType) {
     search = "song";
 }
 
 if (!)
+//spotify song info
+function displaySongData(inputParameter) {
+    //default song if no user input
+    if (!inputParameter) { inputParameter = "I Want it That Way"; }
+    spotify.search({
+        type: "track"
+        query: inputParameter
+        },
+
+    //err function
+    function (err, data) {
+        if (err) {
+        console.log("Error!: " + err);
+        return; }
+
+        
+    }
+    )
+}
+
+
+
+
 
 //bandsintown api search: `node liri.js concert-this <artist/band name here>`
 
