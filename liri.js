@@ -15,24 +15,43 @@ var SpotifySong = require("./song");
 var spotifySong = new SpotifySong();
 
 if (search === "spotify-this-song") {
-    console.log("Spotify Result: ");
     spotifySong.findSong(keyword);
+} else if (!keyword) {
+    spotifySong.findSong("I Want it That Way")
 }
 
 //-----------------BandsInTown-----------------------//
-var BandConcert = require("./concert");
-var bandConcert = new BandConcert();
+// var BandConcert = require("./concert");
+// var bandConcert = new BandConcert();
 
-if (search === "concert-this") {
-    console.log("BandsInTown Result: ");
-    bandConcert.findConcert(keyword);
-}
+// if (search === "concert-this") {
+//     console.log("BandsInTown Result: ");
+//     bandConcert.findConcert(keyword);
+  
+// }   else { return;}
 
-//----------------
+//----------------OMDB------------------------//
+if (search === "movie-this") {
+console.log("OMDB Results: ");
+var movie = keyword;
+var URL = "https://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+axios.get(URL).then(function(response) {
+        var movieResults = [
+            "\n----------------------------------\n", 
+                "Movie Title: " + response.data.Title,
+                "Year of Release: " + response.data.Year,
+                "IMDB Rating: " + response.data.imdbRating,
+                "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value,
+                "Country Produced: " + response.data.Country,
+                "Language: " + response.data.Language,
+                "Plot: " + response.data.Plot,
+                "Actors/Actresses: " + response.data.Actors
+        ].join("\n\n");
+        console.log(movieResults);
+}); //end axios function
+};//end movie-this
 
 
-
-// if (search === "movie-this") {}
 
 // if (search === "do-what-it-says") {}
 
