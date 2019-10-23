@@ -1,47 +1,45 @@
-var axios = require("axios");
+require("dotenv").config();
 var fs = require("fs");
+var keys = require("./keys.js")
+var Spotify = require("node-spotify-api");
+var spotify = new Spotify(keys.spotify);
+
+
 
 //song constructor function
-var Song = function () {
+var SpotifySong = function () {
 
     var divider = "\n--------\n\n";
 
-    //findSong function: takes song name & searches spotify API
+    //findSong function: takes song name & searches spotify AP
     this.findSong = function (song) {
+        if (!song) {song = "I Want it That Way";}
+    
         spotify.search({
             type: "track",
             query: song
-        },
-            function (err) {
-                if (err) {
-                    console.log("Error occured: " + err);
-                    return;
-                }
-            }
-        ).then(function(response) {
+        }).then(function(response) {
+            for (var i = 0; i < 5; i++)
         
             //jsonData: variable for song data retrieved
-             var jsonData = response.data;
+             var jsonData = response.data.tracks.items[i];
         
              //songData: string w/ song data to be console.log'd
              var songData = [
-                "Title: " + jsonData.tracks.items[0].name,
-              "Artist: " + jsonData.tracks.items[0].artists[0].name,
-              "Album: " + jsonData.tracks.items[0].album.name,
-              "Preview: " + jsonData.tracks.items[0],
+                "Title: " + jsonData.name,
+              "Artist: " + jsonData.artists[i].name,
+              "Album: " + jsonData.album.name,
+              "Preview: " + jsonData.preview_url,
             ].join("\n\n");
-        })
 
-       
-
-        fs.appendFile("log.txt", songData + divider, function (err) {
-            if (err) throw err;
-            console.log(songData);
+            //append songData and divider to log.txt, print songData to console
+            fs.appendFile("log.txt", songData + divider, function (err) {
+                if (err) throw err;
+                console.log(songData);
+            });
         });
-    });
-};
-                    // end findSong function
- };
-//end Song function
+    }; // end findSong function
+}; //end Song constructor function
+
 //export Song to liri
-module.exports = Song;
+module.exports = SpotifySong;
