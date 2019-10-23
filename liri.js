@@ -1,7 +1,4 @@
 require("dotenv").config();
-var keys = require("./keys");
-var Spotify = require("node-spotify-api");
-var spotify = new Spotify(keys.spotify)
 var axios = require("axios");
 var fs = require("fs");
 
@@ -13,46 +10,25 @@ var keyword = process.argv.slice(3).join(" ");
 
 //-------------------------spotify-----------------------//
 //access song.js
-var SpotifySong = require("./song")
+var SpotifySong = require("./song");
 //create new spotifysong object
 var spotifySong = new SpotifySong();
 
 if (search === "spotify-this-song") {
-    console.log("Searching Spotify...");
+    console.log("Spotify Result: ");
     spotifySong.findSong(keyword);
-
 }
 
 //-----------------BandsInTown-----------------------//
-// var BandConcert = function() {
+var BandConcert = require("./concert");
+var bandConcert = new BandConcert();
 
-//     var divider = "\n------------------\n\n";
+if (search === "concert-this") {
+    console.log("BandsInTown Result: ");
+    bandConcert.findConcert(keyword);
+}
 
-//     //findConcert function: takes band name & searches BandsInTown API
-//     this.findConcert = function(artist) {
-//         var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
-//         axios.get(URL).then(function(response) {
-
-//             //place response.data into a variable: jsonData
-//             var jsonData = response.data;
-
-//             //showData = string containing the show data that is printed to console
-//             var showData = [
-//                 "show: " + jsonData.name,
-//                 "genre(s): " + jsonData.genres.join(", "),
-//                 "rating: " + jsonData.rating.average,
-//                 "network: " + jsonData.network.name,
-//                 "summary: " + jsonData.summary ].join("\n\n");
-            
-//             //append showData and divider to log.txt => print showData to console
-//             fs.appendFile("log.txt", showData + divider, function(err) {
-//                 if(err) throw err;
-//                 console.log(showData);
-//             });
-//         });
-//     };
-//     //end findShow function, begin findActor function
-// }
+//----------------
 
 
 
