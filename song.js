@@ -6,6 +6,7 @@ var spotify = new Spotify(keys.spotify);
 
 
 
+
 //song constructor function
 var SpotifySong = function () {
 
@@ -19,15 +20,14 @@ var SpotifySong = function () {
             type: "track",
             query: song
         }).then(function(response) {
-            for (var i = 0; i < 5; i++)
         
             //jsonData: variable for song data retrieved
-             var jsonData = response.data.tracks.items[i];
+             var jsonData = response.tracks.items[0];
         
              //songData: string w/ song data to be console.log'd
              var songData = [
                 "Title: " + jsonData.name,
-              "Artist: " + jsonData.artists[i].name,
+              "Artist: " + jsonData.artists[0].name,
               "Album: " + jsonData.album.name,
               "Preview: " + jsonData.preview_url,
             ].join("\n\n");
@@ -40,6 +40,7 @@ var SpotifySong = function () {
         });
     }; // end findSong function
 }; //end Song constructor function
+
 
 //export Song to liri
 module.exports = SpotifySong;
