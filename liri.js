@@ -21,14 +21,14 @@ if (search === "spotify-this-song") {
 }
 
 //-----------------BandsInTown-----------------------//
-// var BandConcert = require("./concert");
-// var bandConcert = new BandConcert();
+var BandConcert = require("./concert");
+var bandConcert = new BandConcert();
 
-// if (search === "concert-this") {
-//     console.log("BandsInTown Result: ");
-//     bandConcert.findConcert(keyword);
+if (search === "concert-this") {
+    console.log("BandsInTown Result: ");
+    bandConcert.findConcert(keyword);
   
-// }   else { return;}
+} 
 
 //----------------OMDB------------------------//
 if (search === "movie-this") {
