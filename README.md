@@ -23,6 +23,8 @@ EXAMPLE: If I want to search the Spotify API for the song "Hotel California" by 
 
 
 
+# Deployment
+The app requires the user to have their own .env file with their unique API keys
 
 This app was developed using node.js
 The goal of this application is to retrieve API data from spotify, bandsintown, and OMDB
