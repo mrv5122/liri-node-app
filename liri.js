@@ -16,9 +16,7 @@ var spotifySong = new SpotifySong();
 
 if (search === "spotify-this-song") {
     spotifySong.findSong(keyword);
-} else if (!keyword) {
-    spotifySong.findSong("I Want it That Way")
-}
+} 
 
 //-----------------BandsInTown-----------------------//
 var BandConcert = require("./concert");
@@ -50,3 +48,10 @@ axios.get(URL).then(function(response) {
         console.log(movieResults);
 }); //end axios function
 };//end movie-this
+
+// do-what-it-says
+
+if (search === "do-what-it-says") {
+    console.log("okay!");
+spotifySong.findSong("I Want It That Way");
+};

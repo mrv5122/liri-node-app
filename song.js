@@ -14,7 +14,7 @@ var SpotifySong = function () {
 
     //findSong function: takes song name & searches spotify AP
     this.findSong = function (song) {
-        if (!song) {song = "I Want it That Way";}
+        if (!song) {song = "The Sign Ace of Base";}
     
         spotify.search({
             type: "track",
