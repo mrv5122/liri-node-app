@@ -30,7 +30,7 @@ var SpotifySong = function () {
               "Artist: " + jsonData.artists[0].name,
               "Album: " + jsonData.album.name,
               "Preview: " + jsonData.preview_url,
-            ].join("\n\n");
+             ].join("\n\n");
 
             //append songData and divider to log.txt, print songData to console
             fs.appendFile("log.txt", songData + divider, function (err) {

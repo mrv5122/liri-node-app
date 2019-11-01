@@ -1,123 +1,612 @@
-Title: Lost In Japan
+Venue Name: Fiserv Forum
 
-Artist: Shawn Mendes
+Venue Location: Milwaukee, WI
 
-Album: Shawn Mendes
-
-Preview: null
---------
-
-Title: bad guy
-
-Artist: Billie Eilish
-
-Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
-
-Preview: null
---------
-
-Title: Lost In Japan
-
-Artist: Shawn Mendes
-
-Album: Shawn Mendes
-
-Preview: null
---------
-
-Title: Lost
-
-Artist: Frank Ocean
-
-Album: channel ORANGE
-
-Preview: null
---------
-
-Title: Lost
-
-Artist: Frank Ocean
-
-Album: channel ORANGE
-
-Preview: null
---------
-
-
+Date of Venue: 2019-10-31T20:00:00
 ------------------
 
+Venue Name: Bankers Life Fieldhouse
 
+Venue Location: Indianapolis, IN
+
+Date of Venue: 2019-11-02T20:00:00
 ------------------
 
-[object Object]
+Venue Name: United Center
+
+Venue Location: Chicago, IL
+
+Date of Venue: 2019-11-03T20:00:00
 ------------------
 
-[object Object]
+Venue Name: Rocket Mortgage FieldHouse
+
+Venue Location: Cleveland, OH
+
+Date of Venue: 2019-11-06T20:00:00
 ------------------
 
+Venue Name: U.S. Bank Arena
 
+Venue Location: Cincinnati, OH
+
+Date of Venue: 2019-11-05T20:00:00
 ------------------
 
-Title: I Want It That Way
+Venue Name: Little Caesars Arena
 
-Artist: Backstreet Boys
+Venue Location: Detroit, MI
 
-Album: The Hits--Chapter One
+Date of Venue: 2019-11-09T20:00:00
+------------------
 
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Venue Name: Scotiabank Arena
 
-Title: I Want It That Way
+Venue Location: Toronto, 
 
-Artist: Backstreet Boys
+Date of Venue: 2019-11-12T20:00:00
+------------------
 
-Album: The Hits--Chapter One
+Venue Name: PPG Paints Arena
 
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Venue Location: Pittsburgh, PA
 
-Title: Hotel California - 2013 Remaster
+Date of Venue: 2019-11-08T20:00:00
+------------------
 
-Artist: Eagles
+Venue Name: Scotiabank Arena
 
-Album: Hotel California (2013 Remaster)
+Venue Location: Toronto, 
 
-Preview: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Date of Venue: 2019-11-11T20:00:00
+------------------
 
-Title: I Want It That Way
+Venue Name: TD Garden
 
-Artist: Backstreet Boys
+Venue Location: Boston, MA
 
-Album: The Hits--Chapter One
+Date of Venue: 2019-11-14T20:00:00
+------------------
 
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Venue Name: Prudential Center
 
-Title: I Want It That Way
+Venue Location: Newark, NJ
 
-Artist: Backstreet Boys
+Date of Venue: 2019-11-16T20:00:00
+------------------
 
-Album: The Hits--Chapter One
+Venue Name: Wells Fargo Center
 
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Venue Location: Philadelphia, PA
 
-Title: Astoria
+Date of Venue: 2019-11-18T20:00:00
+------------------
 
-Artist: STRFKR
+Venue Name: Barclays Center
 
-Album: Reptilians
+Venue Location: Brooklyn, NY
 
-Preview: https://p.scdn.co/mp3-preview/f18bd17478f260c46d0afe3b038eeefba82380bd?cid=c4f5cf0fc4774355b5f6cd001c483368
---------
+Date of Venue: 2019-11-19T20:00:00
+------------------
 
-Title: Shoota (feat. Lil Uzi Vert)
+Venue Name: Mohegan Sun Arena
 
-Artist: Playboi Carti
+Venue Location: Uncasville, CT
 
-Album: Die Lit
+Date of Venue: 2019-11-21T20:00:00
+------------------
 
-Preview: null
---------
+Venue Name: Boardwalk Hall
+
+Venue Location: Atlantic City, NJ
+
+Date of Venue: 2019-11-22T20:00:00
+------------------
+
+Venue Name: PNC Arena
+
+Venue Location: Raleigh, NC
+
+Date of Venue: 2019-11-24T20:00:00
+------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC
+
+Date of Venue: 2019-11-25T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI
+
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis, IN
+
+Date of Venue: 2019-11-02T20:00:00
+------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH
+
+Date of Venue: 2019-11-05T20:00:00
+------------------
+
+Venue Name: Rocket Mortgage FieldHouse
+
+Venue Location: Cleveland, OH
+
+Date of Venue: 2019-11-06T20:00:00
+------------------
+
+Venue Name: United Center
+
+Venue Location: Chicago, IL
+
+Date of Venue: 2019-11-03T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+
+Venue Location: Toronto, 
+
+Date of Venue: 2019-11-11T20:00:00
+------------------
+
+Venue Name: Little Caesars Arena
+
+Venue Location: Detroit, MI
+
+Date of Venue: 2019-11-09T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+
+Venue Location: Toronto, 
+
+Date of Venue: 2019-11-12T20:00:00
+------------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston, MA
+
+Date of Venue: 2019-11-14T20:00:00
+------------------
+
+Venue Name: Wells Fargo Center
+
+Venue Location: Philadelphia, PA
+
+Date of Venue: 2019-11-18T20:00:00
+------------------
+
+Venue Name: PPG Paints Arena
+
+Venue Location: Pittsburgh, PA
+
+Date of Venue: 2019-11-08T20:00:00
+------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ
+
+Date of Venue: 2019-11-16T20:00:00
+------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY
+
+Date of Venue: 2019-11-19T20:00:00
+------------------
+
+Venue Name: Mohegan Sun Arena
+
+Venue Location: Uncasville, CT
+
+Date of Venue: 2019-11-21T20:00:00
+------------------
+
+Venue Name: Boardwalk Hall
+
+Venue Location: Atlantic City, NJ
+
+Date of Venue: 2019-11-22T20:00:00
+------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC
+
+Date of Venue: 2019-11-25T20:00:00
+------------------
+
+Venue Name: PNC Arena
+
+Venue Location: Raleigh, NC
+
+Date of Venue: 2019-11-24T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+Venue Location: Milwaukee, WI
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Bankers Life Fieldhouse
+Venue Location: Indianapolis, IN
+Date of Venue: 2019-11-02T20:00:00
+------------------
+
+Venue Name: United Center
+Venue Location: Chicago, IL
+Date of Venue: 2019-11-03T20:00:00
+------------------
+
+Venue Name: U.S. Bank Arena
+Venue Location: Cincinnati, OH
+Date of Venue: 2019-11-05T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-11T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-12T20:00:00
+------------------
+
+Venue Name: Rocket Mortgage FieldHouse
+Venue Location: Cleveland, OH
+Date of Venue: 2019-11-06T20:00:00
+------------------
+
+Venue Name: TD Garden
+Venue Location: Boston, MA
+Date of Venue: 2019-11-14T20:00:00
+------------------
+
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh, PA
+Date of Venue: 2019-11-08T20:00:00
+------------------
+
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia, PA
+Date of Venue: 2019-11-18T20:00:00
+------------------
+
+Venue Name: Prudential Center
+Venue Location: Newark, NJ
+Date of Venue: 2019-11-16T20:00:00
+------------------
+
+Venue Name: Little Caesars Arena
+Venue Location: Detroit, MI
+Date of Venue: 2019-11-09T20:00:00
+------------------
+
+Venue Name: Barclays Center
+Venue Location: Brooklyn, NY
+Date of Venue: 2019-11-19T20:00:00
+------------------
+
+Venue Name: Mohegan Sun Arena
+Venue Location: Uncasville, CT
+Date of Venue: 2019-11-21T20:00:00
+------------------
+
+Venue Name: Boardwalk Hall
+Venue Location: Atlantic City, NJ
+Date of Venue: 2019-11-22T20:00:00
+------------------
+
+Venue Name: PNC Arena
+Venue Location: Raleigh, NC
+Date of Venue: 2019-11-24T20:00:00
+------------------
+
+Venue Name: Capital One Arena
+Venue Location: Washington, DC
+Date of Venue: 2019-11-25T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+Venue Location: Milwaukee, WI
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: United Center
+Venue Location: Chicago, IL
+Date of Venue: 2019-11-03T20:00:00
+------------------
+
+Venue Name: Bankers Life Fieldhouse
+Venue Location: Indianapolis, IN
+Date of Venue: 2019-11-02T20:00:00
+------------------
+
+Venue Name: U.S. Bank Arena
+Venue Location: Cincinnati, OH
+Date of Venue: 2019-11-05T20:00:00
+------------------
+
+Venue Name: Little Caesars Arena
+Venue Location: Detroit, MI
+Date of Venue: 2019-11-09T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-11T20:00:00
+------------------
+
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh, PA
+Date of Venue: 2019-11-08T20:00:00
+------------------
+
+Venue Name: Rocket Mortgage FieldHouse
+Venue Location: Cleveland, OH
+Date of Venue: 2019-11-06T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-12T20:00:00
+------------------
+
+Venue Name: TD Garden
+Venue Location: Boston, MA
+Date of Venue: 2019-11-14T20:00:00
+------------------
+
+Venue Name: Prudential Center
+Venue Location: Newark, NJ
+Date of Venue: 2019-11-16T20:00:00
+------------------
+
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia, PA
+Date of Venue: 2019-11-18T20:00:00
+------------------
+
+Venue Name: Barclays Center
+Venue Location: Brooklyn, NY
+Date of Venue: 2019-11-19T20:00:00
+------------------
+
+Venue Name: Mohegan Sun Arena
+Venue Location: Uncasville, CT
+Date of Venue: 2019-11-21T20:00:00
+------------------
+
+Venue Name: Boardwalk Hall
+Venue Location: Atlantic City, NJ
+Date of Venue: 2019-11-22T20:00:00
+------------------
+
+Venue Name: PNC Arena
+Venue Location: Raleigh, NC
+Date of Venue: 2019-11-24T20:00:00
+------------------
+
+Venue Name: Capital One Arena
+Venue Location: Washington, DC
+Date of Venue: 2019-11-25T20:00:00
+------------------
+
+Venue Name: Fiserv Forum
+Venue Location: Milwaukee, WI
+Date of Venue: 2019-10-31T20:00:00
+------------------
+
+Venue Name: Bankers Life Fieldhouse
+Venue Location: Indianapolis, IN
+Date of Venue: 2019-11-02T20:00:00
+------------------
+
+Venue Name: U.S. Bank Arena
+Venue Location: Cincinnati, OH
+Date of Venue: 2019-11-05T20:00:00
+------------------
+
+Venue Name: United Center
+Venue Location: Chicago, IL
+Date of Venue: 2019-11-03T20:00:00
+------------------
+
+Venue Name: Rocket Mortgage FieldHouse
+Venue Location: Cleveland, OH
+Date of Venue: 2019-11-06T20:00:00
+------------------
+
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh, PA
+Date of Venue: 2019-11-08T20:00:00
+------------------
+
+Venue Name: Little Caesars Arena
+Venue Location: Detroit, MI
+Date of Venue: 2019-11-09T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-11T20:00:00
+------------------
+
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, 
+Date of Venue: 2019-11-12T20:00:00
+------------------
+
+Venue Name: TD Garden
+Venue Location: Boston, MA
+Date of Venue: 2019-11-14T20:00:00
+------------------
+
+Venue Name: Prudential Center
+Venue Location: Newark, NJ
+Date of Venue: 2019-11-16T20:00:00
+------------------
+
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia, PA
+Date of Venue: 2019-11-18T20:00:00
+------------------
+
+Venue Name: Barclays Center
+Venue Location: Brooklyn, NY
+Date of Venue: 2019-11-19T20:00:00
+------------------
+
+Venue Name: Mohegan Sun Arena
+Venue Location: Uncasville, CT
+Date of Venue: 2019-11-21T20:00:00
+------------------
+
+Venue Name: Boardwalk Hall
+Venue Location: Atlantic City, NJ
+Date of Venue: 2019-11-22T20:00:00
+------------------
+
+Venue Name: PNC Arena
+Venue Location: Raleigh, NC
+Date of Venue: 2019-11-24T20:00:00
+------------------
+
+Venue Name: Capital One Arena
+Venue Location: Washington, DC
+Date of Venue: 2019-11-25T20:00:00
+------------------
 
