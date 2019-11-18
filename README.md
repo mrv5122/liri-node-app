@@ -45,4 +45,4 @@
 
 
 # Deployment
-- The app requires the user to have their own .env file with their unique API keys
+- The app requires the user to have their own .env file with their unique Spotify API key
